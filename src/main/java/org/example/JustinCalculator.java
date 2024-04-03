@@ -9,6 +9,7 @@ public class JustinCalculator {
         return result;
     }
 
+
     public int multiplyInt(int x, int y){
         int result;
         result = x * y;

@@ -16,6 +16,8 @@ public class App
 
         int resultSumIntArrayFunction = justinCalculator.sumIntArray(numbers);
 
+        System.out.println("test");
+
         System.out.println(resultSumIntArrayFunction);
     }
 }
