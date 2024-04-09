@@ -21,7 +21,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/justindavidcalle/mvn-artifact</url>
+            <url>https://maven.pkg.github.com/justindavidcalle/mavenArtifacts</url>
         </repository>
     </distributionManagement>
     <dependencies>
