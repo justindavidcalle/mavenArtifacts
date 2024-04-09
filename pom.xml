@@ -19,8 +19,9 @@
 
     <distributionManagement>
         <repository>
-            <id>justindavidcalle/mavenArtifacts</id>
-            <url>https://github.com/justindavidcalle/mavenArtifacts</url>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/justindavidcalle/mvn-artifact</url>
         </repository>
     </distributionManagement>
     <dependencies>
